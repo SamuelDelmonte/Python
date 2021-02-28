@@ -1,2 +1,1 @@
-# Python-exercices
-gitgit push 
+# Python-exercice
